@@ -6,8 +6,8 @@ body{
     background-color: burlywood;
     border-style: dashed;
     border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
+    border-left-width: 5px;
+    border-right-width: 5px;
     border-color: rgb(172, 171, 171);
 }
 h1 {
